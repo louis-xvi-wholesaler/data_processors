@@ -1,6 +1,7 @@
 # This is a python file meant for linear fitting 这是一份用于线性拟合的python文件
 
 three functions are provided here 这里提供了三个函数
+
 you have to edit the file to process your own data. 你需要修改文件以处理你自己的数据。 
 
 ## extract_numbers
@@ -18,6 +19,7 @@ parameter show_formula: the default is True, and if it is designated as False, t
 ## print_data_linear
 it gets relative data printed
 把相关数据打印出来
+
 including：
 slope, intercept, slope stderr(A type), (B type uncertainty and compound uncertainty,) the standard error of residuals,
 the value of coefficient of association, the value of R-squared, p-value
